@@ -1,0 +1,20 @@
+.form{
+    display: flex;
+    flex-direction: column;
+
+
+    max-width: 150px;
+}
+body{
+    background: aliceblue;
+}
+
+.formInput{
+    padding: 5px;
+}
+.formBtn{
+    padding-left: 5px;
+}
+.error{
+  background: #ff6870;
+}
